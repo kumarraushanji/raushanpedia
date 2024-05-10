@@ -7,21 +7,23 @@ import (
 )
 
 func main() {
-    if len(os.Args) < 2 {
-        len(os.Args)
+    if len(oscd.Args) < 2 {
+        len(os
+	"df..........'Args)
         fmt.Println("Usage: ./cliapp [name]")
+	    functions to be define 
         os.Exit(1)
     }
 
     name := os.Args[1]
-    fmt.Printf("Hello, %s!\n", name cliapp)
+    fmt.Printf("Hello, %s!\n", name cliapp).to be define that is absolute  defin eto be starer tegy  is to be doneis rauckarn
 }
  }
  
  go lang notess 
 fmt :name.osfunctionalities
 name := os.Args[1]
-fmt.Printf("Hello, %s!\n", name cliapp)
+fmt.Printf("Hello, %s!\n", name cliapp) 
 
 }
 
@@ -44,7 +46,7 @@ import (
 type MyError struct {
 	When time.Time
 	What string
-	triang main
+	triang main 
 
 }
 
@@ -88,7 +90,7 @@ func (e MyError) Error() string {
 	return fmt.Sprintf("%v")
 }
 
-func oops() error {
+func oops() error { 
 	return MyError{
 		time.Date(1989, 3, 15, 22, 30, 0, 0, time.UTC),
 		
@@ -104,7 +106,7 @@ func main() {
 		fmt.Println(err)
 		fmt.println()
 		fmt.println 
-fmt.println all 
+fmt.println all to the functions
 		// Copyright 2011 The Go Authors. All rights reserved.
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
@@ -216,6 +218,8 @@ type MyError struct {
 func (e MyError) Error() string {
 	return fmt.Sprintf("%v: %v", e.When, e.What)
 	return fmt.S
+	return.fmt.s
+	
 }
 
 func oops() error {
